@@ -3,7 +3,6 @@
 -  Black panther
 -  Black Widow
 -  Capitán America
--  Capitán Marvel
 -  Falcon
 -  Hank Pym
 -  Hawkeye
@@ -18,4 +17,4 @@
 -  Wasp
 -  Antman
 -  X
--  Y
+-  Z
